@@ -1,0 +1,95 @@
+.navbar{
+	background-color: blue
+	font-weight: 30px;
+	text-align: left;
+}
+
+img{
+	/*position: absolute;*/
+    /*width: 100%;*/
+    top: 0;
+    left: 0;
+   /* height: 50%;*/
+    overflow: hidden;
+    border-bottom: 3px
+}
+
+h1{
+	text-align: left !important;
+	font-weight: 500;
+	color: #043C57;
+	border-top: 4px;
+	border-bottom: 2px;
+	flex-wrap: wrap;
+	align-content: left;
+	font-size: 40px;
+	line-height: 2em
+}
+
+.about-text{
+	display: block;
+	font-size: 1.5em;
+	margin-block-start: 0.83em;
+	margin-block-end: 0.83em;
+	margin-inline-start: 0px;
+	margin-inline-end: 0px;
+	
+}
+
+h3{
+	text-align: left;
+	font-weight: bold;
+	border-top: 3em
+	border-bottom:3em;
+	font-size: 20px;
+}
+
+.beer{
+	background-color: #000;
+	padding: 3rem;
+}
+
+.dad{
+	background-color: #c90025
+}
+
+.tynee{
+	background-color: #c90025
+}
+
+.conta{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: flex-end;
+	height: 100px;
+	width: 650px;
+	margin: 10px
+
+}
+
+img:hover {	
+	transition: all 4s;
+	transform: scale(1.1);
+	}
+
+/*.skill{
+	text-align: right;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: flex-end
+
+	}*/
+
+
+
+	.milky{
+		
+		font-weight: bold;
+		/*background-color: #c90025*/
+		border-top: 2em;
+		padding: 2rem
+
+	}
+	.milky{
+		background-color: #c90025
+	}
