@@ -1,15 +1,15 @@
 .navbar{
 	background-color: blue
+	font: open-sans;
 	font-weight: 30px;
 	text-align: left;
 }
 
 img{
-	/*position: absolute;*/
-    /*width: 100%;*/
+    width: 100%;
     top: 0;
     left: 0;
-   /* height: 50%;*/
+    height: 50%;
     overflow: hidden;
     border-bottom: 3px
 }
@@ -67,10 +67,10 @@ h3{
 
 }
 
-img:hover {	
+/*img:hover {	
 	transition: all 4s;
 	transform: scale(1.1);
-	}
+	}*/
 
 /*.skill{
 	text-align: right;
